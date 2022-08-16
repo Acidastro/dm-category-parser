@@ -17,5 +17,5 @@
 
 # Как пользоваться:
 1. pip install to-requirements.txt
-2. В строке 101     url = 'https://www.detmir.ru/catalog/index/name/pups/'  установить url адрес с каталогом, который нужно спарсить
+2. В строке 101     url = ''  записать в ковычки полный url адрес с каталогом, который нужно спарсить
 3. python main.py
